@@ -1,7 +1,7 @@
 {
   "plugins": {
     "postcss-uncss": {
-      "html": ["index.html", "**/*.html"],
+      "html": ["src/**/*.html"],
       "ignore": []
     }
   }
